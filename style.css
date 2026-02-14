@@ -93,9 +93,9 @@ p {
 .decoracion {
   position:absolute;
   width: 150px;
-  max-width: 90%;
+  max-width:90%;
   height: auto;
-  margin: 10px;
+  min-height: 200px;
 }
 
 .Berdly {
@@ -139,3 +139,4 @@ p {
   transition: opacity 0.4s ease;
 
 }
+
